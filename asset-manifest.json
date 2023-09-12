@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.abd64e84.css",
-    "main.js": "/static/js/main.a0ba1ca3.js",
-    "static/js/787.8cef3861.chunk.js": "/static/js/787.8cef3861.chunk.js",
-    "index.html": "/index.html",
-    "main.abd64e84.css.map": "/static/css/main.abd64e84.css.map",
-    "main.a0ba1ca3.js.map": "/static/js/main.a0ba1ca3.js.map",
-    "787.8cef3861.chunk.js.map": "/static/js/787.8cef3861.chunk.js.map"
+    "main.css": "/react-nomad/static/css/main.abd64e84.css",
+    "main.js": "/react-nomad/static/js/main.d4e6c8e8.js",
+    "static/js/787.8cef3861.chunk.js": "/react-nomad/static/js/787.8cef3861.chunk.js",
+    "index.html": "/react-nomad/index.html",
+    "main.abd64e84.css.map": "/react-nomad/static/css/main.abd64e84.css.map",
+    "main.d4e6c8e8.js.map": "/react-nomad/static/js/main.d4e6c8e8.js.map",
+    "787.8cef3861.chunk.js.map": "/react-nomad/static/js/787.8cef3861.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.a0ba1ca3.js"
+    "static/js/main.d4e6c8e8.js"
   ]
 }
